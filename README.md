@@ -17,3 +17,8 @@ This web application leverages the power of GPT-4 through the Article Extractor 
 - **Tailwind CSS**: A utility-first CSS framework, used for styling the user interface and ensuring a responsive design.
 
 - **Vite**: A fast, opinionated web dev build tool that serves as the build tool for the project.
+
+- **Vercel**: A cloud platform for static sites and serverless functions, used for deploying and hosting the web application.
+
+## Live Demo
+[Visit the Live Demo here](https://ai-summarizer-five-iota.vercel.app/)
